@@ -1,0 +1,7 @@
+dca-crypto-simulator/
+├── main.py
+├── dca_simulator.py
+├── data/
+│   └── sample_prices.csv
+├── README.md
+└── requirements.txt
